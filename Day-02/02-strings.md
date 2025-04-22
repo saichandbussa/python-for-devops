@@ -7,7 +7,7 @@
 - You can access individual characters in a string using indexing, e.g., `my_string[0]` will give you the first character.
 - Strings support various built-in methods, such as `len()`, `upper()`, `lower()`, `strip()`, `replace()`, and more, for manipulation.
 
-
+- sai
 **2. String Manipulation and Formatting:**
 
 - Concatenation: You can combine strings using the `+` operator.
